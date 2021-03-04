@@ -1,2 +1,2 @@
 # pruebaFP
-Este archivo es para Fudamentos de programación
+Este archivo es para Fundamentos de programación
